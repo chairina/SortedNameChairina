@@ -1,0 +1,9 @@
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\obj\Debug\NameSorterChairina.FormName.resources
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\obj\Debug\NameSorterChairina.Properties.Resources.resources
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\obj\Debug\NameSorterChairina.csproj.GenerateResource.cache
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\bin\Debug\NameSorterChairina.exe.config
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\bin\Debug\NameSorterChairina.exe
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\bin\Debug\NameSorterChairina.pdb
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\obj\Debug\NameSorterChairina.exe
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\obj\Debug\NameSorterChairina.pdb
+D:\WORK\ETC\NameSorterChairina\NameSorterChairina\NameSorterChairina\obj\Debug\NameSorterChairina.csprojAssemblyReference.cache
